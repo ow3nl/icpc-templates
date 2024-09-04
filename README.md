@@ -17,3 +17,10 @@ Write a test under `if __name__ == "__main__":` and run the file. Input can be t
 ### C++
 
 Write a test in the `main` function. The input will be written from `input.txt` and output will be written to `output.txt`, unless the lines 
+```
+#ifndef ONLINE_JUDGE
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+#endif
+```
+are deleted from the `main` function.
