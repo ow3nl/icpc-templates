@@ -4,7 +4,7 @@ A large number of common algorithms and data structures implemented in Python an
 ## About
 
 These are templates I use for competitive programming competitions such as those hosted on [codeforces.com](https://codeforces.com/).
-The most common binary search, ternary search, and graph algorithms are implemented in both languages. Additionally, DSU, Segment Trees, and Fenwick Trees are implemented.
+The most common binary search, ternary search, and graph algorithms are implemented in both languages. Some number theory algorithms are also implemented in Python. Additionally, the data structures DSU, Segment Trees, and Fenwick Trees are implemented in both languages.
 
 ## Testing
 
